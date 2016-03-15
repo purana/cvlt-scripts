@@ -3,7 +3,7 @@
 #
 # File:           sample.sh
 # Usage:          sample.sh
-# Description:    Demonstration
+# Description:    Demonstration to capture arguments passed to script
 # Author:         purana
 # Date:           20160315
 #
