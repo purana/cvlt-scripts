@@ -5,7 +5,7 @@
 # Usage:          capture-rman-output.sh
 # Description:    Demonstration to parse JOBID
 #                 So we can copy RMAN output from a backup job.
-#                 Ensure we use this in post backup script in PostBackup phase
+#                 Ensure we use this in PostBackup phase.
 # Author:         purana
 # Date:           20160711
 #
